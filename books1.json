@@ -1,0 +1,97 @@
+{"intents1": [
+        {"tag": "title wise fiction",
+         "title": ["ஆகாயம் காணாத நட்சத்திரம்", "சிவகாமியின் சபதம்"],
+         "responses": "கற்பனை"
+        },
+		{"tag": "title wise mythology",
+         "title": ["கம்ப ராமாயணம்"],
+         "responses": "புராணம்"
+        },
+		{"tag": "title wise historical fiction",
+         "title": ["மோகினித் தீவு","பார்த்திபனின் கனவு","உடையார்"],
+         "responses": "வரலாற்று புனைகதை"
+        },
+		{"tag": "title wise drama",
+         "title": ["ராணி மங்கம்மாள்"],
+         "responses": "நாடகம்"
+        },
+		{"tag": "title wise romance",
+         "title": ["உறங்காத கண்கள்"],
+         "responses": "காதல்"
+        },
+		{"tag": "title wise history",
+         "title": ["மனிதனும் மர்மங்களும்"],
+         "responses": "சரித்திரம்"
+        },
+		{"tag": "title wise super natural",
+         "title": ["மனிதனும் மர்மங்களும்"],
+         "responses": "அமானுஷ்யம்"
+        }
+	],
+"intents4": [
+        {"tag": "year wise genre",
+         "year": [],
+         "responses": ""         
+        }
+	],
+"intents2": [
+        {"tag": "author wise fiction",
+         "author": ["இந்திரா சௌந்தரராஜன்","கல்கி"],
+         "responses": "கற்பனை"
+        },
+		{"tag": "author wise mythology",
+         "author": ["கம்பர்"],
+         "responses": "புராணம்"
+        },
+		{"tag": "author wise historical fiction",
+         "author": ["கல்கி","உடையார்"],
+         "responses": "வரலாற்று புனைகதை"
+        },
+		{"tag": "author wise drama",
+         "author": ["நா.பார்த்தசாரதி"],
+         "responses": "நாடகம்"
+        },
+		{"tag": "author wise romance",
+         "author": [ "ரமணிச்சந்திரன்"],
+         "responses": "காதல்"
+        },
+		{"tag": "author wise history",
+         "author": ["மதன்"],
+         "responses": "சரித்திரம்"
+        },
+		{"tag": "author wise super natural",
+         "author": ["மதன்"],
+         "responses": "அமானுஷ்யம்"
+        }
+	],
+"intents3": [
+        {"tag": "publisher wise fiction",
+         "publiser": ["Pustaka Digital Media","கிழக்கு"],
+         "responses": "கற்பனை"
+        },
+		{"tag": "publisher wise mythology",
+         "publiser": ["Penguin Books"],
+         "responses": "புராணம்"
+        },
+		{"tag": "publisher wise historical fiction",
+         "publiser": ["மணிவாசகர் பதிப்பகம்","பேசு","விசா வெளியீடு"],
+         "responses": "வரலாற்று புனைகதை"
+        },
+		{"tag": "publisher wise drama",
+         "publiser": ["Mukil E Publishing And Solutions Private Limited"],
+         "responses": "நாடகம்"
+        },
+		{"tag": "publisher wise romance",
+         "publiser": [],
+         "responses": "காதல்"
+        },
+		{"tag": "publisher wise history",
+         "publiser": ["கிழக்கு"],
+         "responses": "சரித்திரம்"
+        },
+		{"tag": "publisher wise super natural",
+         "publiser": ["கிழக்கு"],
+         "responses": "அமானுஷ்யம்"
+        }	
+   ]
+}
